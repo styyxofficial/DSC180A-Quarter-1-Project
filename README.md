@@ -14,3 +14,5 @@ Gaussian Processes are stochastic processes used to turn discrete datasets into 
 # To Run
 
 > python run.py
+
+Outputs of run.py will be stored in "output/"
